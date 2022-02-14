@@ -870,21 +870,21 @@ ul{
     border-radius: 100%;
     position: relative;
     color: #ffffff;
-	box-shadow: 0 0 0 rgba(254, 192, 7, 0.4);
+	box-shadow: 0 0 0 rgba(84, 24, 30, 0.4);
 	animation: pulse 2s infinite;
 }
 @keyframes pulse {
   0% {
-    -moz-box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
-    box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
+    -moz-box-shadow: 0 0 0 0 rgba(84, 24, 30, 0.6);
+    box-shadow: 0 0 0 0 rgba(84, 24, 30, 0.6);
   }
   70% {
-      -moz-box-shadow: 0 0 0 10px rgba(254, 192, 7, 0);
-      box-shadow: 0 0 0 10px rgba(254, 192, 7, 0);
+      -moz-box-shadow: 0 0 0 10px rgba(84, 24, 30, 0);
+      box-shadow: 0 0 0 10px rgba(84, 24, 30, 0);
   }
   100% {
-      -moz-box-shadow: 0 0 0 0 rgba(254, 192, 7, 0);
-      box-shadow: 0 0 0 0 rgba(254, 192, 7, 0);
+      -moz-box-shadow: 0 0 0 0 rgba(84, 24, 30, 0);
+      box-shadow: 0 0 0 0 rgba(84, 24, 30, 0);
   }
 }
 .clv_about_wrapper .about_content .video_block > .video_btn > .play_video > span > i{
@@ -1293,7 +1293,7 @@ ul{
 	bottom: 0;
 	left: 0;
 	border-radius: 10px;
-	background-color: rgba(254, 192, 7, 0.8);
+	background-color: rgba(84, 24, 30, 0.8);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -1609,7 +1609,7 @@ ul{
 	border-radius: 10px;
 	opacity: 0;
 	visibility: hidden;
-	background-color: rgba(254, 192, 7, 0.80);
+	background-color: rgba(84, 24, 30, 0.80);
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .gallery_grid .gallery_grid_item .gallery_image:hover .gallery_overlay{
@@ -1686,7 +1686,7 @@ ul{
 	visibility: hidden;
 	transform: translateY(-60px);
 	z-index: -1;
-	background-color: rgba(254, 192, 7, 0.90);
+	background-color: rgba(84, 24, 30, 0.90);
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .clv_team_wrapper .team_section .team_block:hover .team_image .social_overlay{
@@ -1963,7 +1963,7 @@ ul{
 	bottom: 0;
 	opacity: 0;
 	visibility: hidden;
-	background-color: rgba(254, 192, 7, 0.70);
+	background-color: rgba(84, 24, 30, 0.70);
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .clv_footer_wrapper .footer_block .instagram_links > li > a:hover:before{
@@ -9215,21 +9215,21 @@ ul{
 	height: 80px;
 	border-radius: 50%;
 	background-color: #0d0436;
-	box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
+	box-shadow: 0 0 0 0 rgba(84, 24, 30, 0.6);
 	animation: pulse4 2s infinite;
 }
 @keyframes pulse4 {
 	0% {
-	  -moz-box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
-	  box-shadow: 0 0 0 0 rgba(254, 192, 7, 0.6);
+	  -moz-box-shadow: 0 0 0 0 rgba(84, 24, 30, 0.6);
+	  box-shadow: 0 0 0 0 rgba(84, 24, 30, 0.6);
 	}
 	70% {
-		-moz-box-shadow: 0 0 0 10px rgba(254, 192, 7, 0);
-		box-shadow: 0 0 0 10px rgba(254, 192, 7, 0);
+		-moz-box-shadow: 0 0 0 10px rgba(84, 24, 30, 0);
+		box-shadow: 0 0 0 10px rgba(84, 24, 30, 0);
 	}
 	100% {
-		-moz-box-shadow: 0 0 0 0 rgba(254, 192, 7, 0);
-		box-shadow: 0 0 0 0 rgba(254, 192, 7, 0);
+		-moz-box-shadow: 0 0 0 0 rgba(84, 24, 30, 0);
+		box-shadow: 0 0 0 0 rgba(84, 24, 30, 0);
 	}
   }
 /********************************************************
